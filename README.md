@@ -1,6 +1,6 @@
 # Sorteio de Amigo Secreto Alura
 
-Práitica de lógica de programação através deste desafio de um aplicativo de sorteio de amigo secreto
+Prática de lógica de programação através deste desafio de um aplicativo de sorteio de amigo secreto
 
 ## 🚀 Funcionalidades
 
